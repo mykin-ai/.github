@@ -1,11 +1,10 @@
 # ![10](https://github.com/community/community/assets/207447/3582cd52-00d0-4425-858b-6136ad54fad5)
 
-## Hi! Welcome to Kins's GitHub! 👋
+## Hi! Welcome to Kin's GitHub! 👋
 
 This is where we are building Kin, a personal AI for your private life.
 
-We're currently building in private, but we have plans to open-source parts of the project to let the community contribute. 
-
+We're currently building in private, but we have plans to open-source parts of the project to let the community contribute.
 
 ### 💬 Community! 💬
 
